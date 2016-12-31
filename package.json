@@ -1,0 +1,22 @@
+{
+  "name": "electron_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manjuanand021/Electron.git"
+  },
+  "author": "Manjuanand Toladinni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manjuanand021/Electron/issues"
+  },
+  "homepage": "https://github.com/Manjuanand021/Electron#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
